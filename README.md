@@ -137,4 +137,4 @@ Coming soon. Send me some requests, it may motivate me :]
 
 # Now use it for yourself !
 
-[Here's the Github like](https://github.com/HiiGHoVuTi/newtl/tree/master)
+And you can also star
